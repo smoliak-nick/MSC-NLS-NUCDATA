@@ -1,4 +1,4 @@
-# MSC-Nuclear-Data
+# MSC-Nuclear-Data (Original repository from W.Hopkins 06/06/2024)
 Project outline
 
 Part 1:
